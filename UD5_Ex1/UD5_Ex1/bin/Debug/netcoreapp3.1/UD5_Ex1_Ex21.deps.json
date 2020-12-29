@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UD5_Ex1_Ex21/1.0.0": {
+        "runtime": {
+          "UD5_Ex1_Ex21.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UD5_Ex1_Ex21/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
